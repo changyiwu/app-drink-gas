@@ -1,4 +1,4 @@
-# drink-ordering-gas 🥤 飲料線上訂購系統（GAS 版本）
+# app-drink-gas 🥤 飲料線上訂購系統（GAS 版本）
 
 前端採用同層 `drink-ordering-gh` 專案的「作伙喝飲料」首頁、五家店介面、菜單、樣式與圖片；訂單仍由原本的 Google Apps Script `Code.gs` 寫入及讀取繫結試算表。
 

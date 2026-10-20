@@ -1,4 +1,4 @@
-# drink-ordering-gas（專案藍圖）
+# app-drink-gas（專案藍圖）
 
 > 本檔為跨 Agent 通用的專案藍圖（AGENTS.md 開放標準）。任何 Agent 的每個 session 都應先讀本檔＋`handoff.md`。
 
@@ -28,8 +28,8 @@ Google Apps Script 飲料線上訂購系統，前端採用同層 `drink-ordering
 | 層級 | 平台 | 位置 | 讀取時機 |
 |------|------|------|---------|
 | L1 | 本地（GDrive） | `AGENTS.md`＋`handoff.md` | 每個 session |
-| L2 | GitHub | `changyiwu/drink-ordering-gas` | 指定時 |
-| L3 | Obsidian | `drink-ordering-gas/專案工作流程.md` | 有需要時 |
+| L2 | GitHub | `changyiwu/app-drink-gas` | 指定時 |
+| L3 | Obsidian | `app-drink-gas/專案工作流程.md` | 有需要時 |
 
 ## 三個檔案的職責（依「時效性」分家，不是依「詳細程度」）
 

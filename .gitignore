@@ -9,3 +9,6 @@ handoff.md
 
 # Google Drive 試算表捷徑（本機雲端硬碟同步產生，不進 repo）
 *.gsheet
+
+# 產出一律放 output/，不進 git
+output/
